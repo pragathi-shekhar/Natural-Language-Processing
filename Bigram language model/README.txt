@@ -1,5 +1,5 @@
 #########################################################
-# Name: Pragathi Shekhar
+# Name: Pragathi B Shekhar
 # Topic: NLP Assignment II
 # Programming Language: Python 2.7
 #########################################################
